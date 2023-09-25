@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deep
 - 👀 I’m interested in ...web devlopment
-- 🌱 I’m currently learning ...angular Js
+- 🌱 I’m currently learning ...react Js
 - 💞️ I’m looking to collaborate on ...web devlopment projects
 - 📫 How to reach me ...deep.dyadav@gmail.coom
 
