@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deep
-- 👀 I’m interested in ...web devlopment
-- 🌱 I’m currently learning ...react Js
-- 💞️ I’m looking to collaborate on ...web devlopment projects
+- 👀 I’m interested in ...Software Development
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...Full Stack Projects
 - 📫 How to reach me ...deep.dyadav@gmail.coom
 
 <!---
