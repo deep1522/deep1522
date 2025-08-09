@@ -1,6 +1,6 @@
 -  Hi, I’m @deep
--  I’m interested in Software Development and AI Agents
--  I’m currently learning AI Agents and RAG Chatflow.
+-  I’m a Software Developer and AI Engineer.
+-  I’m currently building AI Agents via Langchain and n8n Chatflows..
 -  I’m looking to collaborate on AI Projects
 -  How to reach me ...deep.dyadav@gmail.coom
 
