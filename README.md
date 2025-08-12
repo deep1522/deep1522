@@ -1,4 +1,5 @@
--  Hi, I’m @deep
+-  Hi, I’m Deep Yadav
+-  Currently a Second Year Master's Student at SRMIST.
 -  I’m a Software Developer and AI Engineer.
 -  I’m currently building AI Agents via Langchain and n8n Chatflows..
 -  I’m looking to collaborate on AI Projects
