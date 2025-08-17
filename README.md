@@ -1,9 +1,9 @@
 -  Hi, I’m Deep Yadav
 -  Currently a Second Year Master's Student at SRMIST.
 -  I’m a Software Developer and AI Engineer.
--  I’m currently building AI Agents via Langchain and n8n Chatflows..
+-  I’m currently working with AI Agents via Langchain and n8n..
 -  I’m looking to collaborate on AI Projects
--  How to reach me ...deep.dyadav@gmail.coom
+-  Lets connect on ...deep.dyadav@gmail.coom
 
 <!---
 deep1522/deep1522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
